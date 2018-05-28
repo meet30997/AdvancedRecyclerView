@@ -53,7 +53,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
                 public void onClick(View v) {
                     DashboardItem dashboardItem = (DashboardItem) recyclerViewItems.get(getPosition());
                     Intent intent = new Intent(context, DetailsActivity.class);
-                    intent.putExtra("board", dashboardItem.getName());
+                    intent.putExtra("message", dashboardItem.getName());
                     intent.putExtra("url", dashboardItem.getImageName());
                     context.startActivity(intent);
                 }

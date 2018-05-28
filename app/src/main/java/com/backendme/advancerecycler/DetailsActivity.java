@@ -82,11 +82,6 @@ public class DetailsActivity extends AppCompatActivity {
                 .override(600,400)
                 .into(mImageView);
 
-
-
-
-
-
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
