@@ -93,7 +93,7 @@ limitations under the License.
 If there are someone who I do not mention here,please accept my sincerely appologies and tell me.
 
 <h2 ><a name="donations"></a>Donations:</h2>
-Donate $9.99: [Paypal](https://www.paypal.me/NAYNABENP/9.99usd)
+Donate $9.99: [PayPal](https://www.paypal.me/NAYNABENP/9usd) 
 
 Bitcoin Donation Accepted
 ![wallet](http://s32.postimg.org/sdd1oio1t/qrwallet.jpg)
