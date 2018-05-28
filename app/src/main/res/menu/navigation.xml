@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/globe"
+            android:title="Countries" />
+
+        <item
+            android:id="@+id/navigation_shield"
+            android:icon="@drawable/cars"
+            android:title="Car Logos" />
+
+        <item
+            android:id="@+id/navigation_projects"
+            android:icon="@drawable/movies"
+            android:title="Movies" />
+
+
+
+
+</menu>

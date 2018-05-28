@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#3367d6</color>
+    <color name="colorAccent">#448aff</color>
+    <color name="colorgoogle">#448aff</color>
+    <color name="white">#ffffff</color>
+
+    <!-- Material Design Color - Color palette -->
+
+    <!-- Google Logo Color -->
+
+    <!-- Google Apps Color -->
+
+</resources>

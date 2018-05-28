@@ -1,0 +1,15 @@
+<resources>
+
+
+    <string name="app_name">Advanced Recyclerview</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    -
+
+    <string name="icon">icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
